@@ -1,4 +1,4 @@
-# BankingSystemProject
+# Banking System Project
 2022 고급C프로그래밍 팀 프로젝트
 
 C언어의 구조체, 파일 입출력 등을 이용하여 은행 입출금 관리 시스템을 구현하였습니다. Windows.h 헤더 파일을 사용하여 화면을 구성하였습니다. 키보드를 이용하여 화면을 조작할 수 있습니다.
